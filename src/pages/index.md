@@ -1,50 +1,34 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: The Polyglot Coder's Blog
+image: /img/pexels-danny-meneses-943096.jpg
+heading: The Polyglot Coder's Blog
+subheading: Learning to code in a polyglot software development  world
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Why Polygloy
+  description: Learning different languages teach you to think in different angles
+    during problem resolution. Different paradigms like procedural,
+    object-oriented, functional, meta-programming, data-driven, model-driven,
+    etc. have their take on solving very difficult problems in software
+    development, owning them is the best way to becoming a better engineer and a
+    more fulfilled professional.
+description: This site is devoted to present and share comprehensive AND deep
+  ideas and articles about software development as a professional career.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - image: /img/multiple-languages.webp
+      text: I love programming languages. They are the communication tool we have with
+        other professionals and with our digital partners. Knowing how to use
+        the tools they offer, and knowing which language to use for each task is
+        an invaluable skill we ought to dominate in order to be the best
+        developers we can be. Do I have any preferences? Yes, but only
+        influenced by my past experiences and countless hours learning and
+        playing.
+    - image: /img/computer-science.webp
+      text: Computer science is harder than you think, but more rewarding than they
+        tell you. And more importantly, it is closer to your grasp than you tell
+        yourself, if you are willing to dedicate the necessary time to its
+        mastery. Just lets get started.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -52,19 +36,15 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Share your thoughts
+  description: "\n"
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: F Sharp
+    image: /img/fsharp_logo.png
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: C Sharp
+    image: /img/csharp-logo.png
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Azure Cloud Services
+    image: /img/azure.png
 ---
